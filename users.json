@@ -1,0 +1,18 @@
+[
+  {
+    "id": "e3c04baf-2bd7-46fc-a52a-d555e31e2c85",
+    "email": "intersvyaz.mobile@gmail.com",
+    "password_hash": "$2a$10$Ei20/OatKM5l8Lq6x/XJkO2xlK5KADsJrtscYZBWhqHkIDg45h8Vm",
+    "provider_credentials": [
+      {
+        "id": "ab66ef76-4863-41fa-999d-a5f2297cb8fe",
+        "email": "intersvyaz.mobile@gmail.com",
+        "full_name": "Initial Onboarding User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "1hrXQ9iwkd2YosIAuLa469qVwINbE87ICeCi/TLJEmGkqljgbAJ4XfiYqsHZ\nNsO3n5gLz5fx1gWp4wBrT5La0Q==\n"
+      }
+    ]
+  }
+]
